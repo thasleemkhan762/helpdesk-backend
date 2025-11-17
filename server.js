@@ -10,7 +10,7 @@ const app = express();
 // Middleware
 // CORS configuration for frontend communication
 const corsOptions = {
-  origin: process.env.CLIENT_URL || 'http://localhost:3001',
+  origin: process.env.CLIENT_URL,
   credentials: true,
   optionsSuccessStatus: 200
 };
