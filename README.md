@@ -594,7 +594,7 @@ Created as a technical assessment project demonstrating:
 ## 📞 Support
 
 For issues or questions:
-- Email: your.email@example.com
+- Email: thasleemkhan761@gmail.com
 - GitHub Issues: [repository-url]/issues
 
 ---
