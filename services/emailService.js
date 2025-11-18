@@ -4,7 +4,7 @@ const SibApiV3Sdk = require('@sendinblue/client');
 // Initialize Brevo client
 const brevoClient = new SibApiV3Sdk.TransactionalEmailsApi();
 brevoClient.setApiKey(
-  SibApiV3Sdk.TransactionalEmailsApiApiKeys.apiKey,
+  SibApiV3Sdk.TransactionalEmailsApiApiKeys.apiKey,  
   process.env.BREVO_API_KEY
 );
 
